@@ -304,3 +304,10 @@ Hanami is licensed under the **MIT License**. Copyright (c) 2026 Khaiyen Salaria
 The MIT License permits use, copying, modification, distribution, sublicensing, and sale of copies, provided the copyright and permission notice are included with copies or substantial portions of the software. See the [`LICENSE`](LICENSE) file for the full license terms.
 
 Third-party packages and assets may be subject to their own licenses; refer to their respective license and attribution notices.
+
+
+## Project
+
+- **Repository:** [Khaiyen-Salaria/Hanami](https://github.com/Khaiyen-Salaria/Hanami)
+- **Releases:** [Hanami releases](https://github.com/Khaiyen-Salaria/Hanami/releases)
+- **Status:** v1.0.0 Released
