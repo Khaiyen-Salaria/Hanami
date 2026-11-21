@@ -1,6 +1,6 @@
 # Hanami
 
-[![Project status: v1.0.0 Release](https://img.shields.io/badge/Status-v1.0.0 Release-green)](https://github.com/Khaiyen-Salaria/Hanami/releases)
+[![Project status: v1.0.0 Release](https://img.shields.io/badge/Status-v1.0.0-Release-green)](https://github.com/Khaiyen-Salaria/Hanami/releases)
 [![Built with Python](https://img.shields.io/badge/Python-Flask-blue)](https://flask.palletsprojects.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
