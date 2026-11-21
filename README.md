@@ -1,5 +1,7 @@
 # Hanami
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 **A self-hosted client and project management workspace for independent web developers and small studios.** Manage the full website-delivery journey—from a first client inquiry to launch, handover, and ongoing maintenance—in one place.
 
 <p align="center">
@@ -295,4 +297,8 @@ Bug reports, thoughtful suggestions, and pull requests are welcome. For code cha
 
 ## License
 
-No `LICENSE` file is currently present in the repository. Until a license is added, do not assume the project is available for redistribution or reuse; contact the repository owner for permission.
+Hanami is licensed under the **MIT License**. Copyright (c) 2026 Khaiyen Salaria.
+
+The MIT License permits use, copying, modification, distribution, sublicensing, and sale of copies, provided the copyright and permission notice are included with copies or substantial portions of the software. See the [`LICENSE`](LICENSE) file for the full license terms.
+
+Third-party packages and assets may be subject to their own licenses; refer to their respective license and attribution notices.
